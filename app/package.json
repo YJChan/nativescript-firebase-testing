@@ -1,12 +1,12 @@
 {
-  "name": "tns-template-hello-world",
+  "name": "nativescript-firebase-testing",
   "main": "app.js",
   "version": "2.3.0",
   "author": {
-    "name": "Telerik",
-    "email": "support@telerik.com"
+    "name": "YJChan",
+    "email": "yjtoro@hotmail.com"
   },
-  "description": "Nativescript hello-world project template",
+  "description": "Nativescript firebase testing",
   "license": "Apache-2.0",
   "keywords": [
     "telerik",
@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/NativeScript/template-hello-world.git"
+    "url": "https://github.com/YJChan/nativescript-firebase-testing"
   },
   "bugs": {
-    "url": "https://github.com/NativeScript/template-hello-world/issues"
+    "url": "https://github.com/YJChan/nativescript-firebase-testing/issues"
   },
-  "homepage": "https://github.com/NativeScript/template-hello-world",
+  "homepage": "https://github.com/YJChan/nativescript-firebase-testing",
   "android": {
     "v8Flags": "--expose_gc"
   },
