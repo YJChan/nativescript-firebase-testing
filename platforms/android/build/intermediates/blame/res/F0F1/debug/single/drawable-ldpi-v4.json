@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]

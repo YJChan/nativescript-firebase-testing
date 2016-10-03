@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1029693756500",
+    "firebase_url": "https://fir-test-d701d.firebaseio.com",
+    "project_id": "fir-test-d701d",
+    "storage_bucket": "fir-test-d701d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029693756500:android:5ecfd14b564a8440",
+        "android_client_info": {
+          "package_name": "org.nativescript.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029693756500-ae7ai054usfe3fssusal7968bqsn84if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNXMzeP5JQqjedRhFHgX6uWGQXLDOFBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

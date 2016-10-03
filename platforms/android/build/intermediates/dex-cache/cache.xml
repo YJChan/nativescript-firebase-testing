@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-24.2.1_52eb0b45351143652692cf5994803e749f6fc2cf.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/firebasetest/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/firebasetest-runtime-unspecified_b8a12fee57055533f5810b0bf21c2c5bd5a47f30.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-9.4.0_ca4ece63399a4dcc197c5c6d89e6b6e6090ee2cf.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-24.2.1_958758a8b0441680b450936ccb1c72c0f709afac.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_18a5853da66672ce719da9b5a6ae7088f8e6bc3e.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-messaging-9.4.0_ea6992831c31923dd7d0eed9acb2dd23c20a88f4.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_bb8d804190474893cf5de6bf893fc2b361c3e513.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/bolts-tasks-1.4.0_015700011c3d0afe1f28f50b424efe64e82de436.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-module-9.4.0_a37e8191ace4307714c6878a7fd37fdc1992025d.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-9.4.0_c1e8cb8e5443bacfb5598837d3ffc6f9ab1ad8ca.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-24.2.1_19243255a35c8e677368fec9ab072e49ab5e52c7.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-iid-9.4.0_67cb68971eed5f8f5f5dceaf88c7b4cf086c5507.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-24.2.1_876a9794465c8a8e4585cb972f386e1807845dc9.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-storage-common-9.4.0_0188fe7ad4ebab43f3ea47d8ada91b7c1fac8c5c.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-24.2.1_fd61b79d099912edd8bb08cca9b9f13b252983f9.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-impl-9.4.0_fd7d9b2267fcde87555e519fa5381727d0e45394.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-storage-9.4.0_6d566f240d939567de143a07535d1bb2bb963664.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-24.2.1_48367f0ea1c14cd893664b313103f3c8fba6e685.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-cardview-v7-23.4.0_ad1fb1cf1e31ccf1892ab537ef75d2dafee370af.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-auth-base-9.4.0_344930c24d3b016d36292d094d276f99793a91ae.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-9.4.0_86c1709dddac65505a54c90e35de043a30b2ba7a.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.facebook.android-facebook-android-sdk-4.15.0_d2e9c5f7afc5ab58c370c8772a468194c420e62a.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-crash-9.4.0_a69af5833ce3f54992dfee9335f73a86cd5499fd.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-customtabs-23.4.0_130ecb86b9f7044084eefa947b11c75d37f72206.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/bolts-applinks-1.4.0_c6b319d41fe72a407872c3489717e3091bb9d36e.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-auth-9.4.0_75a0d152f51cfef9ca58f5104fb83019fa6416d0.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_c1b1b9cc8b40f7cf5d76dd0e1f5952d386043365.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_05ea9add43b2aa4cc5597cf8aab9f2e021c576c0.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-connection-9.4.0_15dcb69461ac5ab935d604a8f8610996d41c736e.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_21784058493380ed4cd4786809683f83bfb35c2e.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-24.2.1_0b991ec4f6df4acd7cef3f35d0124907c0698731.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/firebase-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac414a1fd113ad2b4ed7d6e38e698358142895a5">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-firebase-release_4000fd0a953e29b978e9ed1b8ace87ae13af0dac.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-9.4.0_66024874f924c4682e0f2c95fd9129f26cd6a104.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-common-9.4.0_09b29bb3efbe2c364603bc75a4b338b8e023a1b6.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-common-9.4.0_c604c2b7b6ff411d7b9daadd274ad1c319223be2.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-24.2.1_48e860fc3701790118cee2baa518ea5eddbe0e96.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-24.2.1_5dd249b66b49d08431ee9dfa909176f0a8f72cf6.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-config-9.4.0_eb325ab57f594fc3e4b90ceec541c787cc56785f.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-9.4.0_d1e50cabf7713907b3fa2aa992a2696960e61fdd.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-24.2.1_545d95d690023bdc2694b4659dacbfe1eb7f97b7.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-24.2.1_3b91cfae174f6ff291153e956eb3699ba3b3c468.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/firebasetest/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_75051d4f830abfc606ba41598a11fc3063d61acb.jar" />
+    </item>
+    <item
+        jar="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/yongjia/Documents/Nativescript/firebasetest/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-9.4.0_82e6425496c31a9fb1e577467ceb3dfb38896125.jar" />
+    </item>
+
+</items>
